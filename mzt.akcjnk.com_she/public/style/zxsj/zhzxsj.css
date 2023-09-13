@@ -1,0 +1,120 @@
+*{padding:0; margin:0 auto; border:0;}
+a,p,li{ 
+    font-size: 16px;
+}
+
+ul{list-style-type:none;}a{text-decoration:none; color:#F00;}img{border:0;}
+
+.clear{clear:both;}.fl{float:left;}.fr{float:right;}
+
+body{background:#f4f3f3; font-size:12px;}
+
+.top{width:100%; height:42px; background:#03745b; text-align:center;}
+
+.banner{width:100%; height:auto}
+
+.ban1{width:320px; height:25px; background:url(/public/ztimage/zxsj/zhzxsj_02.jpg) no-repeat;}
+
+.ban2{width:320px; height:24px; background:url(/public/ztimage/zxsj/zhzxsj_03.jpg) no-repeat;}
+
+.ban3{width:320px; height:25px; background:url(/public/ztimage/zxsj/zhzxsj_04.jpg) no-repeat;}
+
+.ban4{width:320px; height:24px; background:url(/public/ztimage/zxsj/zhzxsj_05.jpg) no-repeat;}
+
+.ban5{width:320px; height:25px; background:url(/public/ztimage/zxsj/zhzxsj_06.jpg) no-repeat;}
+
+.line{width:100%; height:3px; background:url(/public/ztimage/zxsj/line.jpg) repeat-x;}
+
+.title1{height:27px;}
+
+.title1 ul li{float:left; width:25%; text-align:center;}
+
+.title1 ul li p{width:69px; height:18px; background:#00614B; padding-top:5px;}
+
+.title1 ul li p a{color:#FFF;}
+
+.dh{width:300px; height:auto;}
+
+.dh1{width:300px; height:51px; background:url(/public/ztimage/zxsj/zhbpsj_09.jpg) no-repeat;}
+
+.dh2{width:300px; height:53px; background:url(/public/ztimage/zxsj/zhbpsj_11.jpg) no-repeat;}
+
+.dh2 p{width:200px; height:auto; line-height:20px; padding-left:10px;}
+
+.dh3{width:300px; height:30px; background:url(/public/ztimage/zxsj/zhbpsj_12.jpg) no-repeat; padding-bottom:8px;}
+
+.title{height:30px; border-top:2px solid #03817a; font-size:14px; color:#03745b; font-weight:bold;}
+
+.title p{padding:8px 10px 0 30px; margin:-10px;background:url(/public/ztimage/zxsj/zhbpsj_14.jpg) 10px 11px no-repeat;}
+
+.zx1{padding:10px 0 10px 0; text-align:center;}
+
+.zx1 table tr td{border:1px solid #d8d8da;font-size:14px; background:#FFF;}
+
+.zx1 table{padding-bottom:15px;}
+
+.zx1 a{color:#F00;}
+
+.zx2{padding:10px; height:auto;}
+
+.zx2_1{width:290px;}
+
+.zx2_1 p{width:135px; height:20px; background:#03745b; float:right; margin-bottom:6px; text-align:center; color:#FFF; font-weight:bold; padding-top:4px;}
+
+.zx2_2{width:100%; height:auto; text-align:center; border-bottom:1px solid #e0e0df; padding:8px 0 8px 0;}
+
+.zx2_3{width:290px; height:auto; padding:10px 0 10px 0;}
+
+.zx2_3_1{line-height:22px;}
+
+.zx2_3_1 p b{color:#F00;}
+
+.zx2_3_2{padding-top:10px;}
+
+.zx2_3_2 img{padding-bottom:8px;}
+
+.zx2_4{width:282px; height:22px; border:1px solid #0b7860; text-align:center;}
+
+.zx2_4 p{padding-top:2px; float:left; padding-left:10px; background:#FFF; color:#03745b; height:auto; width:216px;}
+
+.zx2_4 span{float:left; width:56px; height:auto; background:#03745b; color:#FFF; display:block; float:left; padding-top:2px; font-size: 18px;}
+
+.zx3{width:300px; height:auto; padding:10px;}
+
+.zx3 ul li{float:left; margin-right:6px; border:1px solid #838282; margin-bottom:6px; height:46px; text-align:center; background:#FFF; line-height:20px; padding-top:5px;}
+
+.zx4{width:300px; height:auto; padding:10px;}
+
+.zx4_1 ul li{float:left; margin-right:6px; margin-bottom:6px; background:#FFF;border:1px solid #838282; height:46px; padding-top:5px; line-height:20px; text-align:center;}
+
+.zx4_2{padding-top:5px; text-align:center;}
+
+.zx4_2 img{padding:10px 0 10px 0;}
+
+.zx4_3{width:288px; height:377px; background:#e9e9e9; margin-top:10px; padding:6px;}
+
+.zx4_3 strong{display:block; width:280px; color:#2e2e2e;}
+
+.zx4_3_1{width:287px; height:111px; border:1px solid #dbdbdb; background:#ffffff url(/public/ztimage/zxsj/zhzxsj_23.jpg) 5px 5px no-repeat; margin-top:8px;}
+
+.zx4_3_1 p{width:240px; padding:8px 0 0 5px; line-height:20px; height:auto;}
+
+.zx4_3_1 p b{color:#00674d;}
+
+.zx4_3_1 div{width:287px; border-top:1px solid #f0f0f0;}
+
+.zx5{width:290px; height:auto; padding:10px;}
+
+.zx5 p{line-height:22px; width:230px; float:left;}
+
+.zx5 a{display:block; float:right; margin-top:8px;}
+
+.zx5{height:auto; padding:10px; line-height:22px;}
+
+.zx6{height:auto;padding-bottom:20px;}
+
+.zx6 ul li{width:20%; float:left; text-align:center;}
+
+.zx6 ul li p{width:58px; height:40px; background:#03745b; line-height:20px; padding-top:5px;}
+
+.zx6 ul li p a{color:#FFF; font-size:16px;}

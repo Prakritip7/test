@@ -1,0 +1,33 @@
+.foot {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #cecece;
+	height: 150px;
+	position: relative;
+	clear: both;
+	min-width: 306px;
+	width: 310px;
+	text-align: center;
+	margin: 0 auto;
+}
+.foot1 {
+	position: absolute;
+	left: 12px;
+	top: 12px;
+	font-size: 14px;
+	color: #989898;
+	width: 280px;
+	text-align: center;
+}
+.foot1 a {
+	font-size: 13px;
+	color: #464747;
+}
+.foot p {
+	position: absolute;
+	left: 12px;
+	top: 42px;
+	font-size: 12px;
+	line-height: 20px;
+	color: #989898;
+}

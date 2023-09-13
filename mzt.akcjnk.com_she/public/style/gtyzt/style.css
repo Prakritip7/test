@@ -1,0 +1,45 @@
+@charset "utf-8";
+*{ margin:0px; padding:0px;}body { color:#666; margin:0px; padding:0px; background:#fff;font-family: 'microsoft yahei';}
+img{ border:0px;}ul,li{ list-style-type:none; margin:0px; padding:0px;}a{ text-decoration:none;} .auto{ margin:0 auto}
+.ov{ overflow:hidden;}.fleft{ float:left}.fright{ float:right;}.mt10{ margin-top:10px;}.wp{ padding:1% 11% 0% 11%}.mt20{ margin-top:20px}.mt30{ margin-top:30px;}
+
+.page_wrap{position:relative; width:100%;  margin:0 auto; max-width:640px; min-width:320px;}
+header{ height:89px; height:100%; width:100%; text-align:center; max-width:640px; min-width:320px;}
+header img{width:100%; max-width:640px; min-width:320px; display:block}
+.banner{ max-width:640px; min-width:320px; width:100%; display:block;}
+.banner img{ max-width:640px; min-width:320px; width:100%; height:auto; display:block}
+.ban4{ background:url(/public/ztimage/gtyzt/ban4.jpg) no-repeat; background-size:100% 100%; height:2em;}
+.ban4 a{ display:inline-block; width:40%; height:2em;}
+
+.titile{ background:#018367; color:#fff; line-height:2.5em; padding-left:11%; font-size:1.3em;}
+.warp1 a{ display:inline-block; float:left; line-height:2.4em; text-align:center; color:#fff; font-size:1.1em;}
+.p1{ text-indent:2em; line-height:1.7em; font-size:1.2em;}
+.p1 a,.day_p2 a{ color:#ff0101;}
+.p_tit{ text-align:center; color:#018367; font-size:1.3em;}
+.p2{line-height:1.7em; font-size:1.2em; padding-left:13%}
+.p_btn a{ display:block; text-align:center;font-size:1.3em; color:#fff; line-height:2.5em;}
+.btn1{ background:#ff8a03; margin-top:5%}
+.btn2{ background:#14C29C;}
+.p3{line-height:1.9em; font-size:1.2em; border-bottom:1px solid #E8E8E8; padding:1% 0 1% 25%}
+.p3 span,.p2 span{ color:#14c29c;}
+.ads img{ width:100%}
+.adsz{ text-align:center;}
+.adsz img{ width:72%}
+.tit{ margin-top:8%; margin-bottom:4%}
+.p4{ font-size:1.2em; line-height:1.9em;}
+.p4 img,.p6 img{ vertical-align:middle; margin-right:2%}
+.p5{line-height:1.7em; font-size:1.2em;}
+.p5_bor,.day,.click{ border-bottom:1px solid #E8E8E8; padding-top:3%; padding-bottom:3%}
+.day_p1 span{ display:block; color:#fff; font-size:1.2em; text-align:center; width:25%; background:#14c29c; line-height:1.7em;}
+.day_p2{line-height:1.7em; font-size:1.2em;}
+
+.p6{ font-size:1.2em; line-height:1.9em; padding-left:11%}
+.p7{ text-align:right;}
+.p7 a{ color:#ff0000;}
+
+
+
+@media screen and (min-width:320px) {.page_wrap {font-size:12px}.p_btn a{ font-size:1.1em;}}
+@media screen and (min-width:350px) {.page_wrap {font-size:14px}}
+@media screen and (min-width:480px) {.page_wrap {font-size:16px}}
+@media screen and (min-width:640px) {.page_wrap {font-size:24px}}

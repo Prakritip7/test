@@ -1,0 +1,125 @@
+*{ margin:0px; padding:0px; border:0px; font-family:"Microsoft YaHei";}
+.fl{ float:left; display:inline;}
+.fr{ float:right; display:inline;}
+a{ text-decoration:none;}
+body{ background:#FFFFFF;}
+
+.wybox{ width:100%; height:auto; overflow:hidden; margin:0 auto; max-width:640px; min-width:320px;}
+.banner{ width:100%; height:auto; overflow:hidden; cursor:pointer; position:relative;}
+.banner img{ width:100%; height:auto; float:left;}
+.banner span{ width:10%; height:57px; background:url(../images/jt.gif) no-repeat center; background-size:100%; display:block; position:absolute; bottom:0px; left:50%; margin-left:-25px;}
+.tel{ width:80%; height:3em; background:#d85322; margin:5% auto; text-align:center; line-height:3em;}
+.tel a{ font-size:1.1em; color:#FFFFFF;}
+.tel a font{ text-decoration:underline; color:#FFFF00; margin-left:2%;}
+
+section{ width:100%; height:auto; overflow:hidden;}
+section header{ width:100%; height:2.5em; text-align:center; font-size:1.4em; font-weight:bold; color:#FFFFFF; background:#056aa6; line-height:2.5em;}
+.xz{ width:80%; height:auto; overflow:hidden; margin:5% auto;}
+.xz p{ width:33%; height:2em; float:left; display:block; overflow:hidden; line-height:2em; font-size:1em; color:#777777;}
+.xz p input{ display:inline-block; vertical-align:middle; margin-top:0px; border:1px solid #777777; margin-left:3%;}
+.xz p:last-child{ width:100%; height:2em; line-height:2em; text-align:center; margin-top:3%;}
+.xz p:last-child a{ font-size:1em; color:#777777;}
+.xz p:last-child a font{ color:#ff0000; text-decoration:underline;}
+.bq3{ width:80%; height:auto; overflow:hidden; margin:0 auto;}
+.bq3 p{ width:100%; height:auto; overflow:hidden; line-height:1.5em; font-size:1.1em; text-align:center; background:#d85322; margin:5% auto; padding-top:3%; padding-bottom:3%;}
+.bq3 p a{ color:#FFFFFF; font-size:1em;}
+.bq3 p a font{ color:#FFFF00; text-decoration:underline;}
+.sy{ width:80%; height:auto; overflow:hidden; margin:5% auto 0 auto;}
+.sy p{ width:32%; height:2em; text-align:center; line-height:2em; font-size:1.1em; color:#777777; float:left; border:1px solid red; overflow:hidden; border-radius:10px; margin-bottom:3%;}
+.sy p:nth-child(3n){ float:right;}
+.sy p:nth-child(3n+1){ float:left;}
+.sy p:nth-child(3n+2){ float:left; margin-left:1.5%;}
+.sy p:nth-child(1){ border:1px solid #f06767;}
+.sy p:nth-child(2){ border:1px solid #b184b6;}
+.sy p:nth-child(3){ border:1px solid #e1a127;}
+.sy p:nth-child(4){ border:1px solid #4bb1ec;}
+.sy p:nth-child(5){ border:1px solid #66cf94;}
+.sy p:nth-child(6){ border:1px solid #8fc2c7;}
+.sy p:nth-child(6) a{ color:#FF0000;}
+.sy p:last-child{ width:99%; border:none; margin-bottom:0;}
+.sy p:last-child a{ font-size:1em; color:#FF0000;}
+.sy p:last-child a font{ text-decoration:underline;}
+
+.syss{ width:80%; height:auto; overflow:hidden; margin:5% auto 0 auto;}
+.syss p{ width:48%; height:2em; text-align:center; line-height:2em; font-size:1.1em; color:#777777; float:left; border:1px solid red; overflow:hidden; border-radius:10px; margin-bottom:3%;}
+.syss p:nth-child(2n){ float:right;}
+.syss p:nth-child(2n+1){ float:left;}
+.syss p:nth-child(1){ border:1px solid #f06767;}
+.syss p:nth-child(2){ border:1px solid #b184b6;}
+.syss p:nth-child(3){ border:1px solid #e1a127;}
+.syss p:nth-child(4){ border:1px solid #4bb1ec;}
+.syss p:nth-child(5){ border:1px solid #66cf94;}
+.syss p:nth-child(6){ border:1px solid #8fc2c7;}
+.syss p:nth-child(6) a{ color:#FF0000;}
+.syss p:last-child{ width:99%; border:none; margin-bottom:0;}
+.syss p:last-child a{ font-size:1em; color:#FF0000;}
+.syss p:last-child a font{ text-decoration:underline;}
+
+
+.bsjh{ width:100%; height: auto; background:#056aa6; text-align:center; line-height:1.2em; font-size:1.5em; font-weight:bold; color:#FFFFFF; padding-top:2%; padding-bottom:2%;}
+.bsjh font{ font-size:0.7em; color:#FFFF00; font-weight:100;}
+.jx{ width:80%; height:auto; overflow:hidden; margin:5% auto 0 auto;}
+.jx p{ width:50%; height:auto; overflow:hidden; text-align:center; font-size:1em; color:#777777;  float:left; margin-top:5%; line-height:2em;}
+.jx p span{ display:block; font-size:1.5em; font-weight:bold; width:4em; height:4em; border-radius:2em; line-height:4em; margin:0 auto;} 
+.jx p:nth-child(1) span{ color:#40c379; border:3px solid #40c379;}
+.jx p:nth-child(2) span{ color:#e1a127; border:3px solid #e1a127;}
+.jx p:nth-child(3) span{ color:#40aceb; border:3px solid #40aceb;}
+.jx p:nth-child(4) span{ color:#40c379; border:3px solid #40c379;}
+.jxx{ width:100%; height:2em; line-height:2em; float:left; text-align:center; margin-top:3%;}
+.jxx a{ font-size:1.1em; color:#FF0000; text-decoration:underline;}
+.telx{ width:80%; height:auto; overflow:hidden; line-height:1.5em; font-size:1.1em; text-align:center; background:#d85322; margin:5% auto; padding-top:3%; padding-bottom:3%;}
+.telx a{ color:#FFFFFF;}
+.telx a font{ color:#FFFF00; text-decoration:underline;}
+.zy{ width:80%; height:auto; overflow:hidden; margin:5% auto;}
+.zy img{ width:40%; float:left;}
+.zy div{ width:55%; float:right; overflow:hidden;}
+.zy div p{ width:100%; height:2em; line-height:1.5em;  margin-bottom:1%;}
+.zy div p span{ width:1.2em; height:1.2em; text-align:center; line-height:1.2em; font-size:1.2em; background:#1197e7; display:block; border-radius:0.6em; color:#FFFFFF; float:left; margin-right:2%;}
+#zy div p span{ background:#ff8400;}
+.zy div p:first-child{ width:100%; height:1.5em; line-height:1.5em; font-size:1.2em; color:#000000; font-weight:bold;}
+.zl{ width:80%; height:auto; overflow:hidden; margin:5% auto;}
+.zl p:nth-child(1){ width:100%; height:auto; overflow:hidden; font-size:1.1em; color:#777777; line-height:1.5em;}
+.zl p:nth-child(1) font{ font-weight:bold; color:#000000;}
+.zl p:nth-child(2){ width:100%; height:auto; overflow: hidden; line-height:2em; text-align:center;}
+.zl p:nth-child(2) a{ font-size:1.1em; color: #FF0000;}
+.zl p:nth-child(2) a font{ text-decoration:underline;}
+.jj{ width:80%; height:auto; overflow:hidden; margin:2% auto 0 auto;}
+.jj p{ width:50%; height:auto; overflow:hidden; text-align:center; font-size:1em; color:#777777; float:left; margin-top:5%; line-height:2em;}
+.jj p span{ width:3em; height:3em; display:block; overflow:hidden; font-size:2em; border-radius:1.5em; font-weight:bold; line-height:3em; text-align:center; margin:0 auto;}
+.jj p:nth-child(1) span{ border:3px solid #40c379; color:#40c379;}
+.jj p:nth-child(2) span{ border:3px solid #df4040; color:#df4040;}
+.jj p:nth-child(3) span{ border:3px solid #e09f22; color:#e09f22;}
+.jj p:nth-child(4) span{ border:3px solid #1197e7; color:#1197e7;}
+.hz{ width:80%; height:auto; overflow:hidden; margin:5% auto;}
+.hz p:nth-child(1){ width:100%; height:2em; text-align:center; line-height:2em; font-size:1.1em; margin-bottom:5%;}
+.hz p:nth-child(2){ width:33%; height:auto; overflow:hidden; float:left; text-align:center; line-height:2em; color:#777777;}
+.hz p:nth-child(3){ width:33%; height:auto; overflow:hidden; float:left; text-align:center; line-height:2em; color:#777777;}
+.hz p:nth-child(4){ width:33%; height:auto; overflow:hidden; float:left; text-align:center; line-height:2em; color:#777777;}
+.hz p img{ width:80%;}
+.hz div{ width:100%; height:auto; overflow:hidden; float:left; margin-top:5%;}
+.hz div a{ width:35%; height:2.5em; text-align:center; font-size:1.1em; color:#FFFFFF; display:block; line-height:2.5em;}
+.hz div a:nth-child(1){ background:#d85322; float:left; margin-left:10%;}
+.hz div a:nth-child(2){ background:#f84c4c; float:right; margin-right:10%;}
+.dh{ width:80%; height:4em; overflow:hidden; background:#e6e6e6; margin:5% auto; cursor:pointer;}
+.dh a p:nth-child(1){ width:75%; height:auto; font-size:1.1em; float:left; padding:0.2em 0 0.8em 0; text-align:center; color:#000000;}
+.dh a p:nth-child(1) font{ font-size:1.33em; font-weight:bold; color:#000000;}
+.dh a p:nth-child(2){ width:25%; height:3em; font-size:1.1em; background:#ff8400; font-weight:bold; float:right; text-align:center; color:#FFFFFF; padding:0.5em 0;}
+.zz{ width:80%; height:auto; overflow:hidden; margin:5% auto;}
+.zz p:nth-child(1){ width:100%; height:auto; overflow:hidden; font-size:1.1em; color:#777777; line-height:1.7em;}
+.zz p:nth-child(2){ width:60%; height:2.5em; background:#d85322; line-height:2.5em;  text-align:center; margin:5% auto 0 auto;}
+.zz p:nth-child(2) a{color:#FFFFFF;  font-size:1.1em; width:100%; height:100%; display:block;}
+.kb1{ width:80%; height:auto; margin:0 auto;}
+.kb1 .nx{ color:#ffffff; font-size:1.25em; line-height:2em;}
+.kb1 .nx span{ color:#ffea00;}
+.kb1 h1{ font-size:1.6em; line-height:1em; color:#ffffff;}
+.kb1 h1 span{ color:#ffea00;}
+.kb1 .yj{ color:#242424; font-size:1.1em; line-height:2em; display:block; background:#ffea00; margin:3% auto;}
+.kb1 .zys{ color:#ffffff; font-size:1.1em; line-height:1.5em;}
+.kb1 .jr{ color:#ffe400; font-size:1.1em; line-height:2em; text-decoration:underline;}
+.kb{ background:#f84c4c; text-align:center; padding-top:5%; padding-bottom:5%;}
+
+
+
+@media screen and (min-width:320px) {.wybox {font-size:14px}.xz p input{ width:14px; height:14px;}}
+@media screen and (min-width:480px) {.wybox {font-size:16px}.xz p input{ width:16px; height:16px;}}
+@media screen and (min-width:640px) {.wybox {font-size:24px}.xz p input{ width:24px; height:24px;}}

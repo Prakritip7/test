@@ -1,0 +1,90 @@
+*{padding:0; margin:0 auto; border:0;}
+
+ul{list-style-type:none;}
+
+img{border:0;}
+
+body{font-size:16px;}
+
+
+
+.box{width:300px; height:auto;}
+
+.ban1{width:300px; height:66px; background:url(/public/ztimage/bsj/bsj_02.jpg) no-repeat;}
+
+.ban2{width:300px; height:52px; background:url(/public/ztimage/bsj/bsj_03.jpg) no-repeat;}
+
+.ban3{width:300px; height:61px; background:url(/public/ztimage/bsj/bsj_04.jpg) no-repeat;}
+
+.ban4{width:300px; height:55px; background:url(/public/ztimage/bsj/bsj_05.jpg) no-repeat;}
+
+.ban4 p{ padding-left:10px;}
+
+.ban4 p a{ margin-right:10px;}
+
+
+
+.bsj1{width:300px; height:auto; background:#472306;}
+
+.bsj1 p{width:280px; color:#FFF; text-indent:2em; line-height:22px; padding-top:5px;}
+
+.title{width:290px; height:auto; background:#A35411; font-size:16px; color:#FBE9BB; padding:5px;}
+
+
+
+.bsj2{width:300px; height:280px; font-size:14px;}
+
+.bsj2 div{width:280px; height:auto; background:#FDFCF8; margin-top:8px;}
+
+.bsj2 div p{width:280px; height:18px; background:#F4EBD6; text-align:center; font-size:14px; color:#79532A; padding-top:2px;}
+
+.bsj2 div li{font-size:14px; line-height:24px; padding-left:5px;}
+
+
+
+.bsj3{width:300px; height:25vh;}
+
+.bsj3_1{width:280px;}
+
+.bsj3_1 h1{font-size:14px; text-align:center; color:#79532A; font-weight:normal; margin-top:8px;}
+
+.bsj3_1 p{width:275px; height:18px; background:#F4EBD6; margin-top:8px; padding:2px 0 0 5px;} 
+
+.bsj3_1 strong{font-size:14px; text-align:center; color:#79532A; display:block; margin-top:8px;}
+
+.bsj3_2{margin-top:8px;}
+
+.bsj3_2 img{float:left; margin-right:5px;}
+
+.bsj3_2 p{float:left; width:150px; line-height:20px; text-indent:2em;}
+
+
+
+.bsj4{width:300px; height:90px;}
+
+.bsj4 p{width:275px; height:18px; background:#F4EBD6; margin-top:8px; padding:2px 0 0 5px;}
+
+.bsj4 p a{display:block; width:130px; float:left; color:#79532A;}
+
+
+
+.bsj5{width:300px; height:300px;}
+
+.bsj5 strong{width:280px; height:17px; display:block; text-align:center; font-weight:normal; padding-top:3px; color:#583006; font-size:14px; background:#F4EBD6; margin-top:8px;}
+
+.bsj5 p{margin-top:8px; width:280px; text-indent:2em; line-height:20px;}
+
+.bsj5 p span{color:#C90B0B;}
+
+
+
+
+
+
+
+
+
+
+
+
+

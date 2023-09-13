@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; border:0;}
+body{font-size:14px; color:#000; line-height:24px;}
+ul{list-style-type:none;}li{list-style-type:none;}img{ border:0}
+a{text-decoration:none;color:#333;}a:hover{text-decoration:underline;color:#00785A;}
+.fl{float:left;}.fr{float:right;}.clear{ clear:both;}.link_a{ color:#F00;}
+.box{ overflow:hidden; padding:0 7px;}
+.top1{ background:url(/public/ztimage/gbpfy/xygbpdsq_03.jpg)  repeat-x; height:37px;}
+.ban1{ height:30px; background:#E8E8E8 url(/public/ztimage/gbpfy/xygbpdsq_10.jpg) top center no-repeat;}
+.ban2{ height:30px; background:#E8E8E8 url(/public/ztimage/gbpfy/xygbpdsq_11.jpg) top center no-repeat;}
+.ban3{ height:29px; background:#E8E8E8 url(/public/ztimage/gbpfy/xygbpdsq_12.jpg) top center no-repeat;}
+.ban4{ height:30px; background:#E8E8E8 url(/public/ztimage/gbpfy/xygbpdsq_13.jpg) top center no-repeat;}
+.ban5{ height:30px; background:#E8E8E8 url(/public/ztimage/gbpfy/xygbpdsq_14.jpg) top center no-repeat;}
+.title{height:30px;background:#2574C2; padding-left:30px;font-size: 14px;color: white;line-height:30px;font-weight: bold;}
+.box_zx{ padding:10px 0; text-align:center;}
+.box1 p{ padding:15px 15px 0px 15px; text-indent:2em;}
+.box1 dl{ width:95%; margin:0 auto; padding-top:15px;}
+.box1 dl dt{ background:#F1CF5F; font-weight:bold; text-align:center;}
+.box1 dl dd{text-indent:2em; padding-top:10px;}
+.box3{ width:60%; text-align:center; background:#F1CF5F; margin:0 auto; margin-top:10px; color:#F00;}
+.box2 dl {padding-left:30px;}
+.box2 dl dd strong{ color:#2574C2; margin-top:15px; margin-bottom:5px; display:block;}
+.box2 dl dd p{ text-indent:2em;}
+.box4{ height:85px; border:1px solid #A84200; width:95%; margin:0 auto; background:#F1CF5F url(/public/ztimage/gbpfy/xygbpdsq_27.jpg) center no-repeat; margin-top:15px;}
+.box5{ width:95%; margin:0 auto; overflow:hidden; padding:10px 0 0 0;}
+.box5 img{ padding-right:8px;}
+.box5 p{ font-size:12px;}
+.box6 .box6_1{ width:33%; float:left; height:26px; float:left;}
+.box6 .box6_2{ background:#F1CF5F;line-height: 26px;height: 26px;overflow: hidden;margin-right: 10px; text-align:center; color:#F00;}
+.box7{width:95%; margin:0 auto; padding-bottom:10px; color:#F00;}
+.box7 p{ border:1px dotted #F00; padding:10px 0 10px 10px;}

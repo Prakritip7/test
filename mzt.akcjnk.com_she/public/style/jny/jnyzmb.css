@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+*{padding:0; margin:0 auto; border:0;}
+img{border:0;}a{text-decoration:none;}li{list-style-type:none;}
+body{width:100%; background:#050d22; font-size:14px;}
+.fl{float:left;}.fr{float:right;}
+.clear{clear:both;}
+.top{width:300px; height:44px;}
+.banner{width:300px; height:auto;}
+.ban1{width:300px; height:30px; background:url(/public/ztimage/jny/ban1.jpg) no-repeat;}
+.ban2{width:300px; height:30px; background:url(/public/ztimage/jny/ban2.jpg) no-repeat;}
+.ban3{width:300px; height:29px; background:url(/public/ztimage/jny/ban3.jpg) no-repeat;}
+.ban4{width:300px; height:28px; background:url(/public/ztimage/jny/ban4.jpg) no-repeat;}
+.ban5{width:300px; height:32px; background:url(/public/ztimage/jny/ban5.jpg) no-repeat;}
+.ban5 a{display:block; width:280px; height:30px;}
+.title{width:290px; height:25px; font-size:16px; color:#FFF; padding:5px 0 0 10px; background:#162545;}
+.title a{float:right; font-size:12px; color:#ffff00; display:block; padding-top:3px;}
+.ct1{width:280px; height:66px; padding:10px; background:#FFF; color:#050d22; line-height:22px;}
+.ct2{width:280px; height:auto; padding:10px; background:#FFF;color:#050d22; line-height:22px; font-size:12px; text-indent:2em;}
+.ct3{width:280px; height:auto; padding:10px;background:#FFF;color:#050d22;}
+.ct3 p{font-size:12px; line-height:22px;}
+.ct3 strong{color:#a40000; font-size:12px; padding-top:10px; display:block; padding-bottom:5px;}
+.ct3 a{color:#a40000; font-size:13px; font-weight:bold; padding-bottom:5px; display:block;}
+.ct4{width:280px; height:auto; padding:10px;background:#FFF;color:#050d22;}
+.ct4_img{width:100px; text-align:center; float:left; font-size:12px; line-height:18px;}
+.ct4_img img{border:1px solid #cdcdcd;}
+.ct4_img a{font-weight:bold; color:#a40000;}
+.ct4 p{width:160px; float:left; padding-left:10px; font-size:12px; text-indent:2em; line-height:21px;}
+.ct5{width:280px; height:auto; padding:10px;background:#FFF;color:#050d22; font-size:12px; line-height:21px;}
+.ct5 p{padding-bottom:10px;}
+.ct5 a{font-size:13px; font-weight:bold; color:#a40000;}
+.ct6{width:270px; height:auto;background:#FFF;color:#050d22; padding:15px; font-size:12px;}
+.ct6 p{line-height:21px;}
+.ct6_swt{width:232px; height:41px; padding-top:10px;}
+.ct6_swt span{width:111px; height:36px; display:block; background:#192847; text-align:center; padding-top:5px;}
+.ct6_swt span a{color:#fff12f; font-weight:bold;}
+.ct7{width:280px; height:auto; padding:10px; background:#FFF;color:#050d22;}
+.ct7 p{font-size:12px; padding-bottom:8px; line-height:22px; width:270px;}
+.ct7 div{width:280px; text-align:center; font-size:13px; line-height:21px;}
+.ct7 div strong{color:#000;}
+.ct7 div a{color:#a40000; font-weight:bold;}

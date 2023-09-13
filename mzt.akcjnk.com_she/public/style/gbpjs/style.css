@@ -1,0 +1,81 @@
+@charset "utf-8";
+
+*{ margin:0px; padding:0px;}body { color:#6b6b6b; margin:0px; padding:0px; background:#fff;font-family: 'microsoft yahei';}
+
+img{ border:0px;}ul,li{ list-style-type:none; margin:0px; padding:0px;}a{ text-decoration:none;} .auto{ margin:0 auto}
+
+.ov{ overflow:hidden;}.fleft{ float:left}.fright{ float:right;}.mt10{ margin-top:10px;}.wp{ padding:1% 10% 0% 10%}.mt20{ margin-top:20px}.mt30{ margin-top:30px;}
+
+
+
+.page_wrap{position:relative; width:100%;  margin:0 auto; max-width:640px; min-width:320px; background:#EEE;}
+
+header{ width:100%;max-width:640px; min-width:320px; height:auto}
+
+.banner{ max-width:640px; min-width:320px; width:100%; display:block;}
+
+.banner img{ max-width:640px; min-width:320px; width:100%; height:auto; display:block}
+
+.ban5{ background:url(/public/ztimage/gbpjs/ban5.jpg) no-repeat; background-size:100% 100%; height:2.3em;}
+
+.ban5 a{ display:inline-block; height:2.3em; float:left}
+
+.online{ width:60%;}.tel{ width:40%}
+
+.w_bg{ background:#fff; padding:5% 3% 5% 3%; border-bottom:1px solid #C2C2C2;}
+
+.p_img{ text-align: center;}
+
+.p1{ text-indent:2em; line-height:1.5em; font-size:1.2em;}
+
+.p_btn a{ display:block; width:100%; background:#FF9600; color:#fff; text-align:center; line-height:2.2em; font-size:1.1em;}
+
+.ys_tit{ background:#5798E1; color:#fff; font-size:1.2em; padding:3% 10%;}
+
+.ys_p1{ color:#ffe400; font-size:1.3em; font-weight:bold; border-bottom:1px solid #fff; padding-bottom:2%; text-align:center}
+
+.p2{ font-size:1.1em;}
+
+.p2 span{color:#ffe400; margin-right:2%;}
+
+.ys_ul li{ background:#fff;font-size:1.2em; overflow:hidden; margin-bottom:3%; padding:2% 2%;}
+
+.ys_ul li span{ width:20%; display:inline-block; color:#fff; text-align:center;background:#FF9600;}
+
+.ys_ul li .li_r{ width:75%; margin-left:3%;}
+
+.span_lih{ line-height:2.5em;}
+
+.qes_step{ color:#fff; text-align:center; font-size:1.1em; padding:2% 0; background:#5798E1;}
+
+.icon_ul li{ width:30%; float:left; margin-right:3%; margin-bottom:3%;}
+
+.p3{ color:#000; font-size:1.2em;}
+
+.ads img{ display:block}
+
+.three_hand{ width:85%; padding-left:8.5%}
+
+.three_hand li{ color:#212121; text-align:center; width:31%; float:left; margin-right:3%;}
+
+.aks_r{ width:88%; margin-left:2%}
+
+.ask_name{ color:#3c9aeb; font-weight:bold;}
+
+.aks_info{ color:#6c6c6c; line-height:1.5em;}
+
+.text{ height:6em; line-height:6em; background:#fff; border:1px solid #c4c4c4; display:block; color:#838383; padding-left:3%}
+
+.form_btn{ display:block; color:#fff; background:#ff9600; line-height:2.3em; text-align:center; margin-top:3%; font-size:1.2em}
+
+
+
+
+
+@media screen and (min-width:320px) {.page_wrap {font-size:12px}}
+
+@media screen and (min-width:400px) {.page_wrap {font-size:14px}}
+
+@media screen and (min-width:480px) {.page_wrap {font-size:16px}}
+
+@media screen and (min-width:640px) {.page_wrap {font-size:16px}}

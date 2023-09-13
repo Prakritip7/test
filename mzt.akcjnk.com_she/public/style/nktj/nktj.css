@@ -1,0 +1,26 @@
+*{padding:0; margin:0 auto; border:0;}
+ul{list-style-type:none;}a{text-decoration:none;}img{border:0; vertical-align:bottom;}
+body{font-size:12px;}
+.clear{clear:both;}
+.box{width:320px; height:auto; background:#276fbb;}
+.top{width:320px; height:39px;}
+.ban1{width:320px; height:41px; background:url(/public/ztimage/nktj/ban1.jpg) top center no-repeat;}
+.ban2{width:320px; height:40px; background:url(/public/ztimage/nktj/ban2.jpg) top center no-repeat;}
+.ban3{width:320px; height:43px; background:url(/public/ztimage/nktj/ban3.jpg) top center no-repeat;}
+.ban3 a{display:block; width:140px; height:30px;}
+.ct_tit{width:280px; height:27px; padding-top:8px;}
+.ct_tit strong{font-size:16px; color:#FFF; float:left;}
+.ct_tit a{float:right;}
+.ct1{width:280px; height:auto; padding:10px; background:#FFF;}
+.ct1 p{text-indent:2em; line-height:20px;}
+.ct2{width:280px; height:auto; padding:10px; background:#FFF;line-height:20px;}
+.ct3{width:280px; height:auto; padding:10px; background:#FFF; text-align:center;}
+.ct3 h3{width:280px; padding-bottom:5px;}
+.ct3 strong{display:block; width:280px; text-align:left; padding-top:5px; color:#276fbb;}
+.ct3 p{text-align:left; padding-top:5px; line-height:20px; text-indent:2em;}
+.ct4{width:280px; height:auto; padding:10px; background:#FFF;}
+.ct4 p{text-indent:2em; line-height:20px;}
+.ct5{width:280px; height:auto; padding:10px; background:#FFF;}
+.ct5 strong{display:block; width:160px; float:left;}
+.ct5 p{width:160px; float:left; text-indent:2em; line-height:20px; padding-top:6px; padding-bottom:5px;}
+.ct5 p a{color:#F00;}

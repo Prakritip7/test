@@ -1,0 +1,73 @@
+*{padding:0; margin:0 auto; border:0; font-size: 16px !important; }
+
+img{border:none; vertical-align:bottom;}a{text-decoration:none;}ul{list-style-type:none;}
+
+body{font-size:12px;}
+
+.clear{clear:both;}
+
+.box{width:320px; height:auto;background:#3b170f;}
+
+.top{width:320px; height:39px;}
+
+.ban1{width:320px; height:41px; background:url(/public/ztimage/pgy/ban1.jpg) top center no-repeat;}
+
+.ban2{width:320px; height:33px; background:url(/public/ztimage/pgy/ban2.jpg) top center no-repeat;}
+
+.ban3{width:320px; height:50px; background:url(/public/ztimage/pgy/ban3.jpg) top center no-repeat;}
+
+.ban3 p{width:270px; height:30px;}.ban3 p a{display:block; width:109px; height:30px; float:left;}
+
+.tit1{width:310px; height:25px; background:#3b170f; padding:10px 0 0 10px; }
+
+.tit1 strong{color:#fec003; font-size:14px; float:left; display:block; padding-top:3px;}.tit1 a{float:right; margin-right:20px;color:#fec003;}
+
+.ct1{width:300px; height:auto; background:#FFF; padding-bottom:10px;}
+
+.ct1 p{width:280px; line-height:20px; text-indent:2em; padding-top:10px;}
+
+.ct2{width:280px;background:#FFF; height:auto; padding:10px;}
+
+.ct2 strong{font-size:14px;}
+
+.ct2 p{text-indent:2em; line-height:20px; padding-top:10px;}
+
+.ct3{width:280px; height:auto; padding:10px; background:#FFF;}
+
+.ct3_1{width:280px; text-align:center; font-size:14px; color:#ff0000;}
+
+.ct3_1 img{padding-top:10px;}
+
+.ct3_2{width:280px; padding-top:10px;}
+
+.ct3_2 p{width:280px; text-align:center; font-size:14px; font-weight:bold;}
+
+.ct3_2 ul{width:280px; height:135px; padding-top:10px;}
+
+.ct3_2 ul li{float:left; width:77px; height:125px; background:#f1dbbb; margin-right:9px; line-height:21px; padding:5px;}
+
+.ct3_2 ul li strong{display:block; width:87px; text-align:center;}
+
+.ct3_3{width:280px;}
+
+.ct3_3 strong{display:block; width:280px; text-align:center; color:#F00; font-size:14px; padding-top:15px; padding-bottom:8px;}
+
+.ct3_3 img{float:left; margin-right:8px;}
+
+.ct3_3 .ct3_p1{width:163px; text-indent:2em; line-height:20px; float:left;}
+
+.ct3_3 .ct3_p2{width:280px;line-height:20px; float:left;}
+
+.ct4{width:280px; padding:10px; height:auto; background:#FFF;}
+
+.ct4 strong{display:block; float:left; width:159px; padding-top:3px;}
+
+.ct4 p{width:159px; text-indent:2em; float:left; line-height:20px; padding-top:5px; padding-bottom:5px;}
+
+.ct4 p a{color:#F00;}
+
+.ct5{width:280px; padding:10px; height:auto; background:#FFF;}
+
+.ct5 strong{display:block; float:left; width:150px; padding-top:3px;}
+
+.ct5 p{width:150px; text-indent:2em; float:left; line-height:20px; padding-top:5px;}
